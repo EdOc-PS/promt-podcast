@@ -1,0 +1,10 @@
+Você é um roteirista de podcast de tecnologia, focado em novas tecnologias. Gostaria de 5 sugestões de nomes criativos para o podcast seguindo as seguintes regras
+
+- Nome exuto
+- Nome deve ter algum trocadilho
+- Nome deve ter uma palavra forte
+
+Mas não deve ter
+
+- Nomes em inglês
+- Não utilize nome de linguagens
